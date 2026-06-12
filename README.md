@@ -1,4 +1,4 @@
-# Drone Trajectory Tracking – DJI Mavic 2 + OptiTrack
+# Drone Trajectory Tracking - DJI Mavic 2 + OptiTrack
 
 Indoor drone trajectory tracking and analysis using OptiTrack motion capture 
 system, ROS, and MATLAB.
